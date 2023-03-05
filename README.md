@@ -2,7 +2,12 @@
 
 ![Platform - Android and iOS](https://img.shields.io/badge/platform-Android%20%7C%20iOS-blue.svg)
 
-## Try it
+<p align="center">
+<img src="https://user-images.githubusercontent.com/3640257/222951549-230974e9-a760-4c79-9f8a-f689abe01276.PNG" width="200" />
+<img src="https://user-images.githubusercontent.com/3640257/222951542-58a0a703-e988-4fcf-a771-d555c7b9aea2.PNG" width="200" />
+</p>
+
+## How to use
 
 ### Step 1: Install Expo
 
