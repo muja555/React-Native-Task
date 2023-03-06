@@ -48,7 +48,7 @@ const PostUpdateContainer: FC<PropsWithChildren<PostUpdateProps>> = (props) => {
                     <BackIcon/>
                 </TouchableOpacity>
             </View>
-            <ScrollView keyboardShouldPersistTaps='handled' contentContainerStyle={style.scrollView}>
+            <ScrollView keyboardShouldPersistTaps='handled' keyboardDismissMode='on-drag' contentContainerStyle={style.scrollView}>
                 <TextField label={'Title'}
                            value={title}
                            errorMessage={!title ? 'required' : ''}
